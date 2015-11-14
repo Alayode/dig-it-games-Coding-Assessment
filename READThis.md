@@ -1,0 +1,3 @@
+# dig-it-games-Coding-Assessment
+a brief understanding of my JS Coding skills.... 
+

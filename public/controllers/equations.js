@@ -6,7 +6,7 @@
 
 angular.module('MyApp')
  .controller('EquationsCtrl',['$scope',function($scope){
-  $scope.header = { message: 'Equation Page' };
+  $scope.numbers = { num: '0' };
 }]);
 
 

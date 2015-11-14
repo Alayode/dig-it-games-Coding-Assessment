@@ -7,6 +7,7 @@
 angular.module('MyApp')
  .controller('EquationsCtrl',['$scope',function($scope){
   $scope.numbers = { num: '0' };
+  
 }]);
 
 
